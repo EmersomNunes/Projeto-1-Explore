@@ -1,8 +1,5 @@
 # Projetos_Explore
-h1 {
-  text-align: center;
-}
- <h1 style="text-aling: center;">Todos os projetos que eu fiz no curso explore da Rocketseat!</h1>
+ <h1 align="center">Todos os projetos que eu fiz no curso explore da Rocketseat!</h1>
 
 
 
