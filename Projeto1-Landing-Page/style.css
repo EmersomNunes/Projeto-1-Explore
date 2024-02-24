@@ -5,6 +5,7 @@
 }
 
 body {
+    font-family: "Open Sans", sans-serif;
     background-color: #e5e5e5;
     padding: 5%;
     display: flex;
@@ -34,10 +35,16 @@ body {
 }
 
 .title {
+    font-family: "Inter", sans-serif;
+    font-weight: normal;
     font-size: 49px;
     margin-top: 72px;
     line-height: 3.5rem;
     text-align: center;
+}
+
+.title span {
+    font-weight: bold;
 }
 
 .yellowText {
@@ -69,6 +76,10 @@ footer {
 footer a {
     text-decoration: none;
     color: #FF9900;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
 
 .balls-decoration {
