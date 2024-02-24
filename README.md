@@ -1,5 +1,5 @@
-<h1 align="center">Projetos_Explore</h1>
- <h3 align="center">Projeto do land 02 do Explore da Rocketseat!</h3>
+<h1 align="center">Projeto-01-Explore</h1>
+ <h3 align="center">Projeto do land-02 do Explore da Rocketseat!</h3>
 
 
 
